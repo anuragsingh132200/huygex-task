@@ -10,5 +10,5 @@ npm run dev
 ```
 for live link being hosted on vercel 
 
-
+https://huygex-task.vercel.app/
 
